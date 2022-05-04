@@ -1,0 +1,1 @@
+This project was to design a PCB for the device we created for project #1. I created a PCB of a guitar tuner, which is able to register the sounds coming from the string of a guitar and reply whether it is sharp or flat. Included in this project folder are the three eagle files (schematic, board, and library) along with a bill of materials file.
